@@ -1,3 +1,3 @@
 # esse código abre o arquivo e lê seu conteudo
 
-f = open('receitas-bolo-cenoura.txt', 'r')
+f = os.walk('receitas-bolo-cenoura.txt', 'r')
